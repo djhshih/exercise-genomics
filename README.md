@@ -3,7 +3,7 @@
 ## Scenario A
 
 Jane Doe, a 54 year old female, presented with a lump in her left breast.
-Mamogram identified a region of abnormal breast tissue. Histopathological
+Mammogram identified a region of abnormal breast tissue. Histopathological
 analysis of a biopsy identified cells with large nuclei to cytoplasmic ratio.
 Further immunohistochemical analysis showed that the cells with large nuclei
 are estrogen receptor negative, progesterone receptor negative, and
@@ -83,6 +83,9 @@ The following results were obtained:
 *KEAP1* K287*, VAF = 0.29
 iso(17q), clonal
 
+Spectral karyotyping revealed that the cells are near-diploid, and
+no other chromosome abnormality was detected aside from iso(17q).
+
 Variant allele frequency (VAF) is the proportion of alleles in a sample
 that has the variant.
 
@@ -96,5 +99,5 @@ Answer the following questions and explain your answers clearly.
 
 4. What fraction of cancer cells have biallelic loss-of-function in *TP53*?
 
-5. What faction of cancer cells have both *KEAP1* and *TP53* mutation?
+5. What fraction of cancer cells have both *KEAP1* and *TP53* mutation?
 
