@@ -9,11 +9,11 @@ Further immunohistochemical analysis showed that the cells with large nuclei
 are estrogen receptor negative, progesterone receptor negative, and
 HER2 positive. Sequencing of the remaining sample revealed:
 
-*BRCA2* E1158Q
-13q loss
-*ERBB2* amplification
-chr17:g.7676106del
-chr3:g.179218294G>A
+*BRCA2* E1158Q  
+13q loss  
+*ERBB2* amplification  
+chr17:g.7676106del  
+chr3:g.179218294G>A  
 
 Note: Coordinates are based on GRCh38.
 
@@ -77,11 +77,11 @@ samples compared to the non-malignant samples.
 A lung adenocarcinoma sample was analyzed by whole genome sequencing.
 The following results were obtained:
 
-*BRCA2* N372H, VAF = 0.51
-*TP53* Y220C, VAF = 0.62
-*KRAS* G12C, VAF = 0.43
-*KEAP1* K287*, VAF = 0.29
-iso(17q), clonal
+*BRCA2* N372H, VAF = 0.51  
+*TP53* Y220C, VAF = 0.62  
+*KRAS* G12C, VAF = 0.43  
+*KEAP1* K287*, VAF = 0.29  
+iso(17q), clonal  
 
 Spectral karyotyping revealed that the cells are near-diploid, and
 no other chromosome abnormality was detected aside from iso(17q).
