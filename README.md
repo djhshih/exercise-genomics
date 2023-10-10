@@ -26,12 +26,12 @@ Note: Coordinates are based on GRCh38.
 3. Which targeted therapy may be effective for this patient? Cite your
    reference.
 
-4. What is the original codon at chr17:7676106 and the new codon in the sample?
+4. What is the original codon at chr17:7676106? What is the amino acid?
 
 5. What amino acid change will result from the chr17:g.7676106del mutation?
    What will be the functional consequences?
 
-6. What is the original codon at chr3:179218294 and the new codon in the sample?
+6. What is the original codon at chr3:179218294? What is the amino acid?
 
 7. What amino acid change will result from the chr3:g.179218294G>A mutation?
    What will be the functional consequences?
